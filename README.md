@@ -2,7 +2,7 @@
 - 👀 I’m interested in le Q
 - 🌱 I’m currently learning le Q
 - 💞️ I’m looking to collaborate on le Q
-- 📫 How to reach me, pas besoin
+- 📫 How to reach me, nsm
 
 <!---
 Djidji02/Djidji02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
